@@ -24,4 +24,4 @@ Hi, I'm [Aurélien](https://ginolhac.github.io) 👋 from 🇱🇺
 
 [![ginolhac's github stats](https://github-readme-stats.vercel.app/api?username=ginolhac&show_icons=true)](https://github.com/ginolhac)
 
-⭐️ From [ginolhac](https://github.com/ginolhac)
+⭐️ From [ginolhac](https://github.com/ginolhac?tab=stars)

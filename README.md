@@ -29,7 +29,10 @@ I acknowledge that we have less than a decade to drastically reduce CO2 emission
 
 — Acknowledgment provided by acknowledge-the-climate-crisis.org
 
-![](https://showyourstripes.info/stripes/GLOBE---1850-2020-MO.png | height=50)
+<img src="https://showyourstripes.info/stripes/GLOBE---1850-2020-MO.png" width="500" height="80"> 
+
+
+<hr>
 
 [![ginolhac's github stats](https://github-readme-stats.vercel.app/api?username=ginolhac&show_icons=true)](https://github.com/ginolhac)
 

@@ -33,4 +33,4 @@ I acknowledge that we have less than a decade to drastically reduce CO2 emission
 
 [![ginolhac's github stats](https://github-readme-stats.vercel.app/api?username=ginolhac&show_icons=true)](https://github.com/ginolhac)
 
-⭐️ From [ginolhac](https://github.com/ginolhac)
+⭐️ From [ginolhac](https://github.com/ginolhac?tab=stars)

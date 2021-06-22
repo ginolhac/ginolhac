@@ -33,6 +33,7 @@ I acknowledge that we have less than a decade to drastically reduce CO2 emission
 
 <img src="https://showyourstripes.info/stripes/GLOBE---1850-2020-MO.png" width="500" height="80"> 
 
+Image of the 🌏 🌡️ 1850-2020 from [ShowYourStripes](https://showyourstripes.info/)
 
 <hr>
 

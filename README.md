@@ -4,14 +4,14 @@
 
 Hi, I'm [Aurélien](https://ginolhac.github.io) 👋 from 🇱🇺
 
-- **Languages**: daily the **R** language, and occasionally **python**.
+- **Languages**: daily the **R** language, **BASH**, and occasionally **python**.
 - **Virtualization**: **Docker** and **Singularity**.
 - **Interests**: music, :guitar:, everything about :bike:, Raspberry.
-- **Values**: the same as [**Sheldon Brown**](https://www.sheldonbrown.com/):
+- **Values**: adapted from [**Sheldon Brown**](https://www.sheldonbrown.com/):
 
 | Some Things I Believe In | Some Things I _Do Not_ Believe In |
 | :--- | :--- |
-| Democracy | Angels |
+| Climate Change | Angels |
 | Duty      | Astrology |
 | Kindness  | Death Penalty |
 | Law      | Devils |

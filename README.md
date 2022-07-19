@@ -31,9 +31,9 @@ I acknowledge that we have less than a decade to drastically reduce CO2 emission
 
 — Acknowledgment provided by [acknowledge-the-climate-crisis.org](https://t.co/5E65aAtXqR?amp=1)
 
-<img src="https://showyourstripes.info/stripes/GLOBE---1850-2020-MO.png" width="500" height="80"> 
+<img src="https://showyourstripes.info/stripes/GLOBE---1850-2021-MO.png" width="500" height="80"> 
 
-Image of the 🌏 🌡️ 1850-2020 from [ShowYourStripes](https://showyourstripes.info/)
+Image of the 🌏 🌡️ 1850-2021 from [ShowYourStripes](https://showyourstripes.info/)
 
 <hr>
 

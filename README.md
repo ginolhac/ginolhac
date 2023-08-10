@@ -1,10 +1,10 @@
 ## Aurélien Ginolhac
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aurelien-ginolhac-07b33b92/)](https://www.linkedin.com/in/aurelien-ginolhac-07b33b92e/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/kingsushigino/)](https://www.twitter.com/kingsushigino/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aurelien-ginolhac-07b33b92/)](https://www.linkedin.com/in/aurelien-ginolhac-07b33b92e/) [![Mastodon Badge]([https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/kingsushigino/](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white))]([https://www.twitter.com/kingsushigino/](https://fosstodon.org/@ginolhac))
 
 Hi, I'm [Aurélien](https://ginolhac.github.io) 👋 from 🇱🇺
 
-- **Languages**: daily the **R** language, **BASH**, and occasionally **python**.
+- **Languages**: daily the **R** language, **BASH**, then **python** (mostly for **Snakemake**) and learning **Rust**.
 - **Virtualization**: **Docker** and **Singularity**.
 - **Interests**: music, :guitar:, everything about :bike:, Raspberry.
 - **Values**: adapted from [**Sheldon Brown**](https://www.sheldonbrown.com/):

@@ -1,6 +1,6 @@
 ## Aurélien Ginolhac
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aurelien-ginolhac-07b33b92/)](https://www.linkedin.com/in/aurelien-ginolhac-07b33b92e/) [![Mastodon Badge]([https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/kingsushigino/](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white))]([https://www.twitter.com/kingsushigino/](https://fosstodon.org/@ginolhac))
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aurelien-ginolhac-07b33b92e/) [![Mastodon Badge](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white)](https://fosstodon.org/@ginolhac) [![ORCiD Badge](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-7665-9547)
 
 Hi, I'm [Aurélien](https://ginolhac.github.io) 👋 from 🇱🇺
 

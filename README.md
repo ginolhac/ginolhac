@@ -1,11 +1,11 @@
 ## Aurélien Ginolhac
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aurelien-ginolhac-07b33b92e/) [![Mastodon Badge](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white)](https://fosstodon.org/@ginolhac) [![ORCiD Badge](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-7665-9547)
+[![Mastodon Badge](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white)](https://fosstodon.org/@ginolhac) [![ORCiD Badge](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-7665-9547)
 
 Hi, I'm [Aurélien](https://ginolhac.github.io) 👋 from 🇱🇺
 
 - **Languages**: daily the **R** language, **BASH**, then **python** (mostly for **Snakemake**) and learning **Rust**.
-- **Virtualization**: **Docker** and **Singularity**.
+- **Virtualization**: **Docker** and **Apptainer/Singularity**.
 - **Interests**: music, :guitar:, everything about :bike:, Raspberry.
 - **Values**: adapted from [**Sheldon Brown**](https://www.sheldonbrown.com/):
 
